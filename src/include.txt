@@ -1,0 +1,16 @@
+set(qtproject_SRCS
+	main.cpp
+	DroidSync.cpp
+	../modeltest/modeltest.cpp
+)
+
+set(qtproject_H
+	DroidSync.h
+	../modeltest/modeltest.h
+)
+
+set(qtproject_UIS
+	DroidSync.ui
+)
+
+
